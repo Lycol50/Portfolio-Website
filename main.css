@@ -1,0 +1,46 @@
+.bodya {
+    margin: 30px;
+}
+
+.profile {
+    float: right;
+    margin-bottom: 30px;
+}
+
+h1.title {
+    font-size: 40pt;
+}
+
+.sections {
+    margin: 10px;
+}
+
+ul.list {
+    font-size: 19px;
+}
+
+.tlist {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.thead {
+    text-align: center;
+}
+
+.tlist td, .tlist th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.tlist td:hover {
+    background-color: #dddddd;
+}
+
+.educ {
+    margin: 10px;
+}
+
+p.bio {
+    font-size: 20px;
+}
